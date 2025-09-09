@@ -17,6 +17,13 @@ document.querySelectorAll('.nav-link').forEach(n => n.addEventListener('click', 
 const galleryImages = [
     'images/alpha nobre.jpg',
     'images/alfa1.jpeg',
+    'images/alfa2.jpeg',
+    'images/alfa3.jpeg',
+    'images/alfa4.jpeg',
+    'images/alfa5.jpeg',
+    'images/alfa6.jpeg',
+    'images/alfa7.jpeg',
+    'images/alfa8.jpeg',
     'images/pagina 1.jpeg',
     'https://images.pexels.com/photos/1319460/pexels-photo-1319460.jpeg',
     'https://images.pexels.com/photos/1570807/pexels-photo-1570807.jpeg'
